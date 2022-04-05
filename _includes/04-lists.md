@@ -1,4 +1,4 @@
--item
+- item
 favorite series
 lost
 twd
